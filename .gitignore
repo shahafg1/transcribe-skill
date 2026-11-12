@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+*.srt
+*_transcript.json
+.DS_Store
